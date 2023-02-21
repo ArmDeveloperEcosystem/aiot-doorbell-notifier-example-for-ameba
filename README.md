@@ -2,7 +2,7 @@
 
 Combine real-time audio, AI/ML, DSP, and Wi-Fi connectivity technologies together to get notified when your doorbell rings while you're away.
 
-Please see the ["ML powered doorbell notifier with the Realtek RTL8721DM" guide on Hackster.io](https://www.hackster.io/sandeep-mistry/ml-powered-doorbell-notifier-with-the-realtek-rtl8721dm-0a781e) for an overview of the project and step by step setup instructions.
+Please see the ["How to build an ML-powered doorbell notifier" guide on Hackster.io](https://www.hackster.io/sandeep-mistry/how-to-build-an-ml-powered-doorbell-notifier-0a781e) for an overview of the project and step by step setup instructions.
 
 ## Hardware
 
